@@ -1,0 +1,38 @@
+[     850ms] [LOG] AdFuelError event fired: CustomEvent @ https://edition.cnn.com/media/sites/js/bundles/cnn-edition-adfuel-body-4f5702656cd8f4223620039026c7c6ddef28fe7bd21467289a55cfecc58ecf1f.min.js:0
+[    1066ms] [ERROR] Failed to load resource: the server responded with a status of 451 () @ https://api.rlcdn.com/api/identity/envelope?pid=13452:0
+[    1109ms] [LOG] CEP Topic Collection:  [Object, Object, Object] @ https://edition.cnn.com/media/sites/js/bundles/cnn-edition-adfuel-90b90dcb7e32397764fa35be509f8319d719b39f431d9b8271a1064a98b46190.min.js:0
+[    1310ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605140101/pubads_impl.js:18
+[    1332ms] [LOG] Ad Slots:  {active: Array(1), adSlots: Array(1)} @ https://cadmus.script.ac/d2uap9jskdzp2/script.js:0
+[    1400ms] [ERROR] Attestation check for Protected Audience on https://ib.adnxs.com failed. @ https://edition.cnn.com/:0
+[    1400ms] [ERROR] Attestation check for Protected Audience on https://htlb.casalemedia.com failed. @ https://edition.cnn.com/:0
+[    1400ms] [ERROR] Attestation check for Protected Audience on https://btlr.sharethrough.com failed. @ https://edition.cnn.com/:0
+[    1400ms] [ERROR] Attestation check for Protected Audience on https://btlr.sharethrough.com failed. @ https://edition.cnn.com/:0
+[    1400ms] [ERROR] Attestation check for Protected Audience on https://elb.the-ozone-project.com failed. @ https://edition.cnn.com/:0
+[    1400ms] [ERROR] Attestation check for Protected Audience on https://fastlane.rubiconproject.com failed. @ https://edition.cnn.com/:0
+[    1401ms] [ERROR] Attestation check for Protected Audience on https://direct.adsrvr.org failed. @ https://edition.cnn.com/:0
+[    1401ms] [ERROR] Attestation check for Protected Audience on https://a.teads.tv failed. @ https://edition.cnn.com/:0
+[    1505ms] [ERROR] Attestation check for Protected Audience on https://hbopenbid.pubmatic.com failed. @ https://edition.cnn.com/:0
+[    1505ms] [ERROR] Attestation check for Protected Audience on https://grid-bidder.criteo.com failed. @ https://edition.cnn.com/:0
+[    1845ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605140101/pubads_impl.js:18
+[    2011ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605140101/pubads_impl.js:18
+[    2044ms] [LOG] [PTK] cookies  @ https://lightning.warnermediacdn.com/cdp/psmtk/getcdpid.html:37
+[    2045ms] [LOG] [PTK] cdpId 9706dbcc-9a70-42db-ad31-ab04e6a3ff57 @ https://lightning.warnermediacdn.com/cdp/psmtk/getcdpid.html:40
+[    2045ms] [LOG] [PTK] setting cookie in iFrame @ https://lightning.warnermediacdn.com/cdp/psmtk/getcdpid.html:41
+[    2045ms] [LOG] [PTK] setting CDPID to 9706dbcc-9a70-42db-ad31-ab04e6a3ff57 on domain warnermediacdn.com @ https://lightning.warnermediacdn.com/cdp/psmtk/getcdpid.html:15
+[    2045ms] [LOG] [PTK] expires Fri, 16 May 2036 19:18:41 GMT @ https://lightning.warnermediacdn.com/cdp/psmtk/getcdpid.html:17
+[    2267ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://cadmus.script.ac/d2uap9jskdzp2/script.js:0
+[    2275ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://cadmus.script.ac/d2uap9jskdzp2/script.js:0
+[    2347ms] [LOG] {adSessionID: c90384c0-7027-47dd-8d2e-6787420bfca4, advertisingIdentifier: null, appSessionId: c90384c0-7027-47dd-8d2e-6787420bfca4, applicationIdentifier: edition.cnn.com, applicationName: cnn} @ https://cadmus.script.ac/d2uap9jskdzp2/script.js:0
+[    2750ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://tpc.googlesyndication.com') does not match the recipient window's origin ('https://edition.cnn.com'). @ https://registry.api.cnn.io/bundles/fave/boltPlayer-c10c3e73/boltPlayer:0
+[    2755ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://tpc.googlesyndication.com') does not match the recipient window's origin ('https://edition.cnn.com'). @ https://registry.api.cnn.io/bundles/fave/boltPlayer-c10c3e73/boltPlayer:0
+[    2760ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    3010ms] [LOG] [BL]  [raiseEvent] OnInit{"elementUrl":"https://edition.cnn.com/"} @ https://cadmus.script.ac/d2uap9jskdzp2/script.js:0
+[    3010ms] [LOG] [BL]  [raiseEvent] OnManifestLoadedundefined @ https://cadmus.script.ac/d2uap9jskdzp2/script.js:0
+[    2760ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    3040ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    3344ms] [TIMEEND] a: 0.001220703125 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[    3405ms] [WARNING] It is recommended that a robustness level be specified. Not specifying the robustness level could result in unexpected behavior. @ https://registry.api.cnn.io/bundles/fave/boltPlayer-c10c3e73/boltPlayer:0
+[    3819ms] [WARNING] It is recommended that a robustness level be specified. Not specifying the robustness level could result in unexpected behavior. @ https://registry.api.cnn.io/bundles/fave/boltPlayer-c10c3e73/boltPlayer:0

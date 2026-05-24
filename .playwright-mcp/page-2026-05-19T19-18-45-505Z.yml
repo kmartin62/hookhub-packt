@@ -1,0 +1,1317 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - generic [ref=e2]:
+      - generic [ref=e6]:
+        - iframe [ref=e9]:
+          - generic [active] [ref=f16e1]:
+            - iframe [ref=f16e2]:
+              - iframe [ref=f22e2]:
+                - generic [active] [ref=f23e1]:
+                  - generic [ref=f23e3]:
+                    - link:
+                      - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CwwUTkbcMavraBcPM1PIPysT0wAOK5oeLhwGK8KWPgxbmt-itBRABILflhCFgqAagAfTBx5kDyAECqQKo4gtT7XyzPqgDAcgDyQSqBN4BT9BU5ySFy5uBSFKJ5Z9WYa42KD8lPTr31ZKvXYp1SexUb8vTOr0PyDrzSQhpQohJpNgjH-a2pI0RZrRMZejNDp4VE9BcQ1BJ1yGMn5FJZZpAlhAWotsROan4vKB1Gc4bYYPMUDr5f4wpdp9SL1eaoJfNZQ17z_qNh37o4TCAC7eW4iNu8DedUosNu36fUDwEWGfzImX89jSg22FfEBYI5OA7pS_mqA9Kp4vaYOpbB2xbsShophUR4JwF8juHKpbQiyRoOe7BCY2x1LjThsF4jbmlJyXjG6NAtEMVqcxGwASew_ml1wWIBfqTk-lYoAYCgAf0vbhmqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggwCIBhEAEYADIIioKAgICAgAg6D4BAgMCAgICAiIACqIOAEEi9_cE6WIjzzOCIxpQD8ggNYmlkZGVyLTM0MTk2MLEJ_OkQvUYFe0uACgSYCwHICwGiDBAqDgoMjt-xApXisQKW4rECqg0CTUvIDQHwDQKIDv___________wHYEw3QFQHKFgIKAPgWAYAXAbIXEBgBKgo1MDg4NTI2MzQ3UAa6FwI4AbIYBRgCIgEA0BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIuueG4IjGlAMVQyZVCB1KIh04EAEYASAAEgIjn_D_BwE&num=1&pr=13:agy3kQAAAAC1VpOdfGIN5pgi8qM2QeZU5QbtEg&cid=CAQShAIABaugfedBiumlTx9rck7zCPYWKHTrkPvad7InwDr9k_U4wxGrzTWhdOyL-7qlnrW2K8P7x67N3YJ8UrMborA-eag7Ku3xQE9s5MGU-H_3Phx30-xFQ15fJA-FG5b3zhgOyyHFQcYfkm-1qkgZSGZftsFQxQs_Z_1LOp2Ar_x8STeTRfL89SaDu8S5VmipuwbCKjswY9fIH9JVqeWbvFheArerT22FUH2vfdKjCeF87z-fq1bb0pGtydum3vsW9wYwVq8dzgc5UOrSF12p2fXKeTuRiKMEONEPDM-NPUKFS7j6117zWaTuGEQqEO7_W-weG6gs40iE9cJ6IQgtmZfWR0F7SRgB&sig=AOD64_3MgSqImB697F-TKkRGGJk3JOHAlQ&client=ca-pub-5722610347565274&rf=2&nb=2&adurl=https://setec.mk/samsung-kogaposakuvashdobivash%3Fgad_source%3D5%26gad_campaignid%3D23842834938%26gclid%3DEAIaIQobChMIuueG4IjGlAMVQyZVCB1KIh04EAEYASAAEgIjn_D_BwE
+                    - img [ref=f23e7] [cursor=pointer]
+                    - button [ref=f23e9] [cursor=pointer]:
+                      - img [ref=f23e10]
+                  - iframe
+            - iframe
+        - generic [ref=e10]:
+          - generic [ref=e11]: Advertisement
+          - generic [ref=e13] [cursor=pointer]: Ad Feedback
+        - iframe [ref=e14]:
+          
+      - navigation [ref=e15]:
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - button "Open Menu Icon" [ref=e20]:
+                - img [ref=e21]
+              - link "CNN logo" [ref=e24] [cursor=pointer]:
+                - /url: https://edition.cnn.com
+                - img [ref=e26]
+            - navigation "User Account Nav" [ref=e31]:
+              - link "User Account Log In Button" [ref=e33] [cursor=pointer]: Sign in
+          - separator [ref=e34]
+  - generic [ref=e35]:
+    - main [ref=e38]:
+      - generic [ref=e42]:
+        - list [ref=e49]:
+          - listitem [ref=e50]:
+            - link "Ebola outbreak |" [ref=e51] [cursor=pointer]:
+              - /url: /2026/05/19/africa/ebola-outbreak-drc-uganda-who-chief-intl
+              - generic [ref=e52]:
+                - generic [ref=e53]: Ebola outbreak
+                - text: "|"
+          - listitem [ref=e54]:
+            - link "Dodging drones |" [ref=e55] [cursor=pointer]:
+              - /url: /2026/05/18/europe/ukraine-road-of-life-russian-drones-intl-cmd
+              - generic [ref=e56]:
+                - generic [ref=e57]: Dodging drones
+                - text: "|"
+          - listitem [ref=e58]:
+            - link "‘Trump versus Massie’ |" [ref=e59] [cursor=pointer]:
+              - /url: /2026/05/19/politics/ed-gallrein-thomas-massie-donald-trump-kentucky-election
+              - generic [ref=e60]:
+                - generic [ref=e61]: ‘Trump versus Massie’
+                - text: "|"
+          - listitem [ref=e62]:
+            - link "Martial arts legend Jet Li |" [ref=e63] [cursor=pointer]:
+              - /url: /2026/05/18/style/jet-li-martial-arts-star-memoir-hnk-intl
+              - generic [ref=e64]:
+                - generic [ref=e65]: Martial arts legend Jet Li
+                - text: "|"
+          - listitem [ref=e66]:
+            - link "1,121 new ocean species |" [ref=e67] [cursor=pointer]:
+              - /url: /2026/05/19/climate/scientists-discover-new-species-oceans-intl
+              - generic [ref=e68]:
+                - generic [ref=e69]: 1,121 new ocean species
+                - text: "|"
+          - listitem [ref=e70]:
+            - link "World’s most dangerous soup |" [ref=e71] [cursor=pointer]:
+              - /url: /travel/busan-south-korea-pufferfish-bokguk-intl-hnk
+              - generic [ref=e72]:
+                - generic [ref=e73]: World’s most dangerous soup
+                - text: "|"
+          - listitem [ref=e74]:
+            - link "Super El Niños" [ref=e75] [cursor=pointer]:
+              - /url: /2026/05/19/climate/super-el-nino-impacts-history-climate
+              - generic [ref=e77]: Super El Niños
+        - generic [ref=e81]:
+          - generic [ref=e84]:
+            - list [ref=e88]:
+              - listitem [ref=e89]:
+                - link "Israeli far-right Finance Minister Bezalel Smotrich sits before a press conference near the settlement of Maale Adumim, in a land corridor known as E1, outside Jerusalem in the occupied West Bank, on August 14, 2025. (Photo by Menahem KAHANA / AFP) (Photo by MENAHEM KAHANA/AFP via Getty Images) Menahem Kahana/AFP/Getty Images" [ref=e90] [cursor=pointer]:
+                  - /url: /2026/05/19/middleeast/smotrich-icc-seeking-arrest-intl
+                  - generic [ref=e92]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Israeli far-right Finance Minister Bezalel Smotrich sits before a press conference near the settlement of Maale Adumim, in a land corridor known as E1, outside Jerusalem in the occupied West Bank, on August 14, 2025. (Photo by Menahem KAHANA / AFP) (Photo by MENAHEM KAHANA/AFP via Getty Images)"
+                      - generic:
+                        - generic: Menahem Kahana/AFP/Getty Images
+                - link "Far-right Israeli minister Bezalel Smotrich says ICC seeking warrant for his arrest" [ref=e93] [cursor=pointer]:
+                  - /url: /2026/05/19/middleeast/smotrich-icc-seeking-arrest-intl
+                  - generic [ref=e95]: Far-right Israeli minister Bezalel Smotrich says ICC seeking warrant for his arrest
+            - list [ref=e99]:
+              - listitem [ref=e100]:
+                - link "maldives cave 2014 vrtc.jpg 1:18 Vladimir Tochilov" [ref=e101] [cursor=pointer]:
+                  - /url: /2026/05/19/world/video/maldives-cave-divers-vrtc
+                  - generic [ref=e103]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "maldives cave 2014 vrtc.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 1:18
+                      - generic:
+                        - generic: Vladimir Tochilov
+                - link "Inside the cave where 5 divers died in the Maldives" [ref=e104] [cursor=pointer]:
+                  - /url: /2026/05/19/world/video/maldives-cave-divers-vrtc
+                  - generic [ref=e106]: Inside the cave where 5 divers died in the Maldives
+            - list [ref=e110]:
+              - listitem [ref=e111]:
+                - link "Acting Attorney General Todd Blanche testifies before a Senate subcommittee about the Justice Department's proposed 2027 budget on Capitol Hill in Washington. Evelyn Hockstein/Reuters" [ref=e112] [cursor=pointer]:
+                  - /url: /2026/05/19/politics/takeaways-todd-blanche-senate-testimony-weaponization-fund
+                  - generic [ref=e114]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Acting Attorney General Todd Blanche testifies before a Senate subcommittee about the Justice Department's proposed 2027 budget on Capitol Hill in Washington."
+                      - generic:
+                        - generic: Evelyn Hockstein/Reuters
+                - 'link "Takeaways from Blanche’s Senate testimony: Weaponization fund and Epstein probes dominate" [ref=e115] [cursor=pointer]':
+                  - /url: /2026/05/19/politics/takeaways-todd-blanche-senate-testimony-weaponization-fund
+                  - generic [ref=e117]: "Takeaways from Blanche’s Senate testimony: Weaponization fund and Epstein probes dominate"
+              - listitem [ref=e118]:
+                - 'link "Blanche, pressed on Epstein, says: ‘He’s dead’ 0:57" [ref=e119] [cursor=pointer]':
+                  - /url: /2026/05/19/politics/video/jeff-merkley-epstein-investigation-ag-blanche-digvid-vrtc
+                  - generic [ref=e121]:
+                    - text: "Blanche, pressed on Epstein, says: ‘He’s dead’"
+                    - generic [ref=e122]: 0:57
+          - generic [ref=e126]:
+            - generic [ref=e127]:
+              - link "Trump says he'll delay attack on Iran until 'maybe early next week'" [ref=e129] [cursor=pointer]:
+                - /url: /2026/05/19/politics/live-news/todd-blanche-testimony-trump-administration
+                - heading "Trump says he'll delay attack on Iran until 'maybe early next week'" [level=2] [ref=e130]
+              - list [ref=e133]:
+                - listitem [ref=e134]:
+                  - link "President Donald Trump tours Ballroom construction around the outside the White House, Tuesday, May 19, 2026, in Washington. (AP Photo/Jacquelyn Martin) • Live Updates Jacquelyn Martin/AP" [ref=e135] [cursor=pointer]:
+                    - /url: /2026/05/19/politics/live-news/todd-blanche-testimony-trump-administration
+                    - generic [ref=e137]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "President Donald Trump tours Ballroom construction around the outside the White House, Tuesday, May 19, 2026, in Washington. (AP Photo/Jacquelyn Martin)"
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: •
+                              - text: Live Updates
+                        - generic:
+                          - generic: Jacquelyn Martin/AP
+                  - link "The president added that whether the war is ‘popular or not popular, I have to do it’" [ref=e138] [cursor=pointer]:
+                    - /url: /2026/05/19/politics/live-news/todd-blanche-testimony-trump-administration
+                    - generic [ref=e140]: ": The president added that whether the war is ‘popular or not popular, I have to do it’"
+                - listitem [ref=e141]:
+                  - link "The war in Iran so far, moment by moment" [ref=e142] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/interactive/2026/05/politics/iran-war-key-moments-vis/
+                    - generic [ref=e144]: The war in Iran so far, moment by moment
+                - listitem [ref=e145]:
+                  - 'link "The next supply shock: Motor oil" [ref=e146] [cursor=pointer]':
+                    - /url: /2026/05/19/business/motor-oil-shortage-prices-iran
+                    - generic [ref=e148]: "The next supply shock: Motor oil"
+                - listitem [ref=e149]:
+                  - link "Israel’s ambassador to the U.S. says Israel is a ‘junior partner’ in Trump’s next moves on Iran 8:11" [ref=e150] [cursor=pointer]:
+                    - /url: /2026/05/19/world/video/cnn-sitroom-blitzer-yechiel-michael-leiter-iran-gulf-leaders-partner
+                    - generic [ref=e152]:
+                      - text: Israel’s ambassador to the U.S. says Israel is a ‘junior partner’ in Trump’s next moves on Iran
+                      - generic [ref=e153]: 8:11
+            - generic [ref=e155]:
+              - heading "San Diego mosque shooting" [level=2] [ref=e157]
+              - list [ref=e160]:
+                - listitem [ref=e161]:
+                  - link "• Live Updates" [ref=e162] [cursor=pointer]:
+                    - /url: /2026/05/18/us/live-news/san-diego-islamic-center-shooting
+                    - generic [ref=e164]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: •
+                              - text: Live Updates
+                  - link "Shooting suspect’s mother reported her son, car and weapons missing hours before attack" [ref=e165] [cursor=pointer]:
+                    - /url: /2026/05/18/us/live-news/san-diego-islamic-center-shooting
+                    - generic [ref=e167]: ": Shooting suspect’s mother reported her son, car and weapons missing hours before attack"
+                - listitem [ref=e168]:
+                  - link "119697_SanDiegoShootingSuspect vrtc thumb cln.png 1:22" [ref=e169] [cursor=pointer]:
+                    - /url: /2026/05/19/us/video/suspected-san-diego-mosque-shooter-cain-clark-vrtc
+                    - generic [ref=e171]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "119697_SanDiegoShootingSuspect vrtc thumb cln.png"
+                        - generic:
+                          - generic:
+                            - generic: 1:22
+                  - link "What we know about one of the suspected San Diego mosque shooters" [ref=e172] [cursor=pointer]:
+                    - /url: /2026/05/19/us/video/suspected-san-diego-mosque-shooter-cain-clark-vrtc
+                    - generic [ref=e174]: What we know about one of the suspected San Diego mosque shooters
+                - listitem [ref=e175]:
+                  - link "san diego 1.jpg 1:00" [ref=e176] [cursor=pointer]:
+                    - /url: /us/video/nine-year-old-san-diego-shooting-witness-ldn-digvid
+                    - generic [ref=e178]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "san diego 1.jpg"
+                        - generic:
+                          - generic:
+                            - generic: 1:00
+                  - link "9-year-old recounts San Diego shooting" [ref=e179] [cursor=pointer]:
+                    - /url: /us/video/nine-year-old-san-diego-shooting-witness-ldn-digvid
+                    - generic [ref=e181]: 9-year-old recounts San Diego shooting
+          - generic [ref=e185]:
+            - list [ref=e189]:
+              - listitem [ref=e190]:
+                - link "Catch up on today’s global news" [ref=e203] [cursor=pointer]:
+                  - /url: /videos/fast/cnni-fast
+                  - generic [ref=e205]: Catch up on today’s global news
+            - list [ref=e209]:
+              - listitem [ref=e210]:
+                - link "default Lilit Marcus/CNN" [ref=e211] [cursor=pointer]:
+                  - /url: /travel/busan-south-korea-pufferfish-bokguk-intl-hnk
+                  - generic [ref=e213]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "default"
+                      - generic:
+                        - generic: Lilit Marcus/CNN
+                - link "The fish so dangerous that families would ban loved ones from eating it" [ref=e214] [cursor=pointer]:
+                  - /url: /travel/busan-south-korea-pufferfish-bokguk-intl-hnk
+                  - generic [ref=e216]: The fish so dangerous that families would ban loved ones from eating it
+              - listitem [ref=e217]:
+                - link "Sundar Pichai, chief executive officer of Alphabet Inc., during the Google I/O Developers Conference in Mountain View, California, US, on Tuesday, May 19, 2026." [ref=e218] [cursor=pointer]:
+                  - /url: /2026/05/19/tech/google-search-bar-updates-2026
+                  - generic [ref=e220]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Sundar Pichai, chief executive officer of Alphabet Inc., during the Google I/O Developers Conference in Mountain View, California, US, on Tuesday, May 19, 2026."
+                - link "Google is making its biggest change to the search bar in years" [ref=e221] [cursor=pointer]:
+                  - /url: /2026/05/19/tech/google-search-bar-updates-2026
+                  - generic [ref=e223]: Google is making its biggest change to the search bar in years
+              - listitem [ref=e224]:
+                - link "119708_EiffelTowerStairs Fonted HRZN Thumb.jpg" [ref=e225] [cursor=pointer]:
+                  - /url: /world/video/eiffel-tower-stairs-to-go-on-auction-digvid-hrzn
+                  - generic [ref=e227]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119708_EiffelTowerStairs Fonted HRZN Thumb.jpg"
+                - link "Eiffel Tower stairs to go on auction 0:59" [ref=e228] [cursor=pointer]:
+                  - /url: /world/video/eiffel-tower-stairs-to-go-on-auction-digvid-hrzn
+                  - generic [ref=e230]:
+                    - text: Eiffel Tower stairs to go on auction
+                    - generic [ref=e231]: 0:59
+              - listitem [ref=e233]:
+                - link "GettyImages-2177162920.jpg" [ref=e234] [cursor=pointer]:
+                  - /url: /2026/05/19/health/best-sunscreens-2026-wellness
+                  - generic [ref=e236]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "GettyImages-2177162920.jpg"
+                - 'link "First on CNN: New report finds only 20% of tested sunscreens are safe and effective" [ref=e237] [cursor=pointer]':
+                  - /url: /2026/05/19/health/best-sunscreens-2026-wellness
+                  - generic [ref=e239]:
+                    - generic [ref=e240]: "First on CNN:"
+                    - text: New report finds only 20% of tested sunscreens are safe and effective
+              - listitem [ref=e241]:
+                - link "ArtificialEggs digvid thumb.jpg" [ref=e242] [cursor=pointer]:
+                  - /url: /2026/05/19/science/video/biotech-company-hatches-chicks-artificial-eggs-digvid
+                  - generic [ref=e244]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "ArtificialEggs digvid thumb.jpg"
+                - link "Biotech company hatches chicks from artificial eggs 1:08" [ref=e245] [cursor=pointer]:
+                  - /url: /2026/05/19/science/video/biotech-company-hatches-chicks-artificial-eggs-digvid
+                  - generic [ref=e247]:
+                    - text: Biotech company hatches chicks from artificial eggs
+                    - generic [ref=e248]: 1:08
+        - generic [ref=e252]:
+          - generic [ref=e256]:
+            - heading "More top stories" [level=2] [ref=e258]
+            - list [ref=e261]:
+              - listitem [ref=e262]:
+                - link "Russian President Vladimir Putin speaks during a press conference in Moscow, Russia May 9, 2026. REUTERS/Ramil Sitdikov/Pool Ramil Sitdikov/Reuters" [ref=e263] [cursor=pointer]:
+                  - /url: /2026/05/19/asia/putin-china-visit-xi-meeting-intl-hnk
+                  - generic [ref=e265]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Russian President Vladimir Putin speaks during a press conference in Moscow, Russia May 9, 2026. REUTERS/Ramil Sitdikov/Pool"
+                      - generic:
+                        - generic: Ramil Sitdikov/Reuters
+                - 'link "Xi’s double act: Putin arrives in China days after Trump’s departure" [ref=e266] [cursor=pointer]':
+                  - /url: /2026/05/19/asia/putin-china-visit-xi-meeting-intl-hnk
+                  - generic [ref=e268]: "Xi’s double act: Putin arrives in China days after Trump’s departure"
+              - listitem [ref=e269]:
+                - link "Mango founder’s son arrested in connection to father’s plunging death" [ref=e270] [cursor=pointer]:
+                  - /url: /2026/05/19/business/mango-founder-son-arrested-isak-andic-death-intl
+                  - generic [ref=e272]: Mango founder’s son arrested in connection to father’s plunging death
+              - listitem [ref=e273]:
+                - link "What to know about Trump’s $1.8 billion taxpayer-fueled fund for his allies" [ref=e274] [cursor=pointer]:
+                  - /url: /2026/05/18/politics/what-to-know-trump-weaponization-fund-for-allies
+                  - generic [ref=e276]: What to know about Trump’s $1.8 billion taxpayer-fueled fund for his allies
+              - listitem [ref=e277]:
+                - 'link "Dodging the drones: Aerial attackers stalk Ukrainian troops, and a CNN team, on a key road to the front" [ref=e278] [cursor=pointer]':
+                  - /url: /2026/05/18/europe/ukraine-road-of-life-russian-drones-intl-cmd
+                  - generic [ref=e280]: "Dodging the drones: Aerial attackers stalk Ukrainian troops, and a CNN team, on a key road to the front"
+              - listitem [ref=e281]:
+                - link "On eastern Ukraine’s ‘Road of Life,’ death-delivering drones hunt for targets 7:40" [ref=e282] [cursor=pointer]:
+                  - /url: /2026/05/18/world/video/russia-ukraine-drone-npw-intldsk
+                  - generic [ref=e284]:
+                    - text: On eastern Ukraine’s ‘Road of Life,’ death-delivering drones hunt for targets
+                    - generic [ref=e285]: 7:40
+              - listitem [ref=e287]:
+                - link "30-year US Treasury yield hits highest level in 19 years" [ref=e288] [cursor=pointer]:
+                  - /url: /2026/05/19/business/30-year-treasury-yield-bond-record
+                  - generic [ref=e290]: 30-year US Treasury yield hits highest level in 19 years
+              - listitem [ref=e291]:
+                - link "WHO chief raises alarm over scale of Ebola outbreak after death toll climbs" [ref=e292] [cursor=pointer]:
+                  - /url: /2026/05/19/africa/ebola-outbreak-drc-uganda-who-chief-intl
+                  - generic [ref=e294]: WHO chief raises alarm over scale of Ebola outbreak after death toll climbs
+              - listitem [ref=e295]:
+                - link "Woman dies after falling into an uncovered maintenance hole in New York City" [ref=e296] [cursor=pointer]:
+                  - /url: /2026/05/19/us/manhole-new-york-woman-dies
+                  - generic [ref=e298]: Woman dies after falling into an uncovered maintenance hole in New York City
+          - generic [ref=e301]:
+            - generic [ref=e302]:
+              - heading "Climate & Environment" [level=2] [ref=e304]
+              - generic [ref=e308]:
+                - link "‘Glass castle’ worm (Dalhousiella yabukii) The Nippon Foundation-Nekton Ocean Census/JAMSTEC" [ref=e309] [cursor=pointer]:
+                  - /url: /2026/05/19/climate/scientists-discover-new-species-oceans-intl
+                  - generic [ref=e311]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "‘Glass castle’ worm (Dalhousiella yabukii)"
+                      - generic:
+                        - generic: The Nippon Foundation-Nekton Ocean Census/JAMSTEC
+                - 'link "From ‘ghost sharks’ to ‘death ball’ sponges: Scientists find more than 1,100 wild and unusual ocean species" [ref=e312] [cursor=pointer]':
+                  - /url: /2026/05/19/climate/scientists-discover-new-species-oceans-intl
+                  - generic [ref=e314]: "From ‘ghost sharks’ to ‘death ball’ sponges: Scientists find more than 1,100 wild and unusual ocean species"
+            - list [ref=e318]:
+              - listitem [ref=e319]:
+                - link [ref=e320] [cursor=pointer]:
+                  - /url: /science/tonkin-snub-nosed-monkey-vietnam-c2e-hnk-spc
+                - link "This extraordinary monkey was thought to be extinct. In one forest, it’s bouncing back" [ref=e323] [cursor=pointer]:
+                  - /url: /science/tonkin-snub-nosed-monkey-vietnam-c2e-hnk-spc
+                  - generic [ref=e325]: This extraordinary monkey was thought to be extinct. In one forest, it’s bouncing back
+              - listitem [ref=e326]:
+                - link "The sun rises behind mountains at dawn in Mexico City on April 28, 2026, as the meteorological service reports a heatwave expected to affect at least 27 states, with temperatures reaching up to 45 degrees Celsius in the northern state of Sonora." [ref=e327] [cursor=pointer]:
+                  - /url: /2026/05/19/climate/super-el-nino-impacts-history-climate
+                  - generic [ref=e329]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "The sun rises behind mountains at dawn in Mexico City on April 28, 2026, as the meteorological service reports a heatwave expected to affect at least 27 states, with temperatures reaching up to 45 degrees Celsius in the northern state of Sonora."
+                - link "What previous Super El Niños can tell us about the next one" [ref=e330] [cursor=pointer]:
+                  - /url: /2026/05/19/climate/super-el-nino-impacts-history-climate
+                  - generic [ref=e332]: What previous Super El Niños can tell us about the next one
+          - generic [ref=e338]:
+            - heading "US elections" [level=2] [ref=e340]
+            - list [ref=e343]:
+              - listitem [ref=e344]:
+                - link "President Donald Trump walks with Texas Attorney General Ken Paxton, left, at Austin-Bergstrom International Airport in Austin, on Wednesday, Nov. 20, 2019." [ref=e345] [cursor=pointer]:
+                  - /url: /2026/05/19/politics/cornyn-paxton-trump-texas-endorse
+                  - generic [ref=e347]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "President Donald Trump walks with Texas Attorney General Ken Paxton, left, at Austin-Bergstrom International Airport in Austin, on Wednesday, Nov. 20, 2019."
+                - link "Trump endorses Paxton, upending Senate GOP plans in Texas race" [ref=e348] [cursor=pointer]:
+                  - /url: /2026/05/19/politics/cornyn-paxton-trump-texas-endorse
+                  - generic [ref=e350]: Trump endorses Paxton, upending Senate GOP plans in Texas race
+              - listitem [ref=e351]:
+                - link "FILE - The Kentucky state Capitol in Frankfort, Ky., is pictured on April 7, 2021. Republicans have expanded their overwhelming majorities in the Kentucky legislature. The GOP claimed sweeping victories statewide in voting that concluded Tuesday, Nov. 8, 2022. (AP Photo/Timothy D. Easley, File)" [ref=e352] [cursor=pointer]:
+                  - /url: /2026/05/19/politics/live-news/election-pennsylvania-georgia-kentucky-alabama-primaries
+                  - generic [ref=e354]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "FILE - The Kentucky state Capitol in Frankfort, Ky., is pictured on April 7, 2021. Republicans have expanded their overwhelming majorities in the Kentucky legislature. The GOP claimed sweeping victories statewide in voting that concluded Tuesday, Nov. 8, 2022. (AP Photo/Timothy D. Easley, File)"
+                - 'link "Live Updates : Kentucky Republicans decide on Rep. Thomas Massie’s fate in today’s primaries" [ref=e355] [cursor=pointer]':
+                  - /url: /2026/05/19/politics/live-news/election-pennsylvania-georgia-kentucky-alabama-primaries
+                  - generic [ref=e357]:
+                    - generic [ref=e358]: "Live Updates :"
+                    - text: Kentucky Republicans decide on Rep. Thomas Massie’s fate in today’s primaries
+              - listitem [ref=e359]:
+                - link "Flake 2.jpg" [ref=e360] [cursor=pointer]:
+                  - /url: /2026/05/18/politics/video/src-jeff-flake-appalled-by-hegseth-on-campaign-trail
+                  - generic [ref=e362]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Flake 2.jpg"
+                - 'link "‘Horrified’: Former GOP Senator Appalled by Hegseth on the Campaign Trail 1:36" [ref=e363] [cursor=pointer]':
+                  - /url: /2026/05/18/politics/video/src-jeff-flake-appalled-by-hegseth-on-campaign-trail
+                  - generic [ref=e365]:
+                    - text: "‘Horrified’: Former GOP Senator Appalled by Hegseth on the Campaign Trail"
+                    - generic [ref=e366]: 1:36
+        - generic [ref=e372]:
+          - generic [ref=e376]:
+            - heading "Art & Style" [level=2] [ref=e378]
+            - generic [ref=e382]:
+              - link "Nicole Kidman comes face to face with a Constantin Brancusi sculpture. Hunter Abrams/Courtesy Christie's" [ref=e383] [cursor=pointer]:
+                - /url: /2026/05/19/style/christies-may-sales-si-newhouse-nicole-kidman
+                - generic [ref=e385]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Nicole Kidman comes face to face with a Constantin Brancusi sculpture."
+                    - generic:
+                      - generic: Hunter Abrams/Courtesy Christie's
+              - link "Christie’s sells $1.1 billion in art in one night — with a little help from Nicole Kidman" [ref=e386] [cursor=pointer]:
+                - /url: /2026/05/19/style/christies-may-sales-si-newhouse-nicole-kidman
+                - generic [ref=e388]: Christie’s sells $1.1 billion in art in one night — with a little help from Nicole Kidman
+          - list [ref=e395]:
+            - listitem [ref=e396]:
+              - 'link "CANNES, FRANCE - MAY 18: Sharon Stone attends the \"Fjord\" screening during the 79th annual Cannes Film Festival at Palais des Festivals on May 18, 2026 in Cannes, France. (Photo by Amy Sussman/Getty Images) Amy Sussman/Getty Images" [ref=e397] [cursor=pointer]':
+                - /url: /2026/05/13/style/cannes-film-festival-2026-red-carpet-fashion
+                - generic [ref=e399]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - 'img "CANNES, FRANCE - MAY 18: Sharon Stone attends the \"Fjord\" screening during the 79th annual Cannes Film Festival at Palais des Festivals on May 18, 2026 in Cannes, France. (Photo by Amy Sussman/Getty Images)"'
+                    - generic:
+                      - generic: Amy Sussman/Getty Images
+              - 'link "Sharon Stone, Renate Reinsve and Charles Melton: The must-see looks from the Cannes Film Festival so far" [ref=e400] [cursor=pointer]':
+                - /url: /2026/05/13/style/cannes-film-festival-2026-red-carpet-fashion
+                - generic [ref=e402]: "Sharon Stone, Renate Reinsve and Charles Melton: The must-see looks from the Cannes Film Festival so far"
+            - listitem [ref=e403]:
+              - link "sc01_26_Bioceramic_Royal_Pop_OTG ROZ_Close-up CROWN copy.jpg Swatch" [ref=e404] [cursor=pointer]:
+                - /url: /2026/05/18/style/swatch-audemars-piguet-royal-pop-collaboration
+                - generic [ref=e406]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "sc01_26_Bioceramic_Royal_Pop_OTG ROZ_Close-up CROWN copy.jpg"
+                    - generic:
+                      - generic: Swatch
+              - link "Swatch and Audemars Piguet’s ‘high-low’ collab sparked a frenzy. Who’s the real winner?" [ref=e407] [cursor=pointer]:
+                - /url: /2026/05/18/style/swatch-audemars-piguet-royal-pop-collaboration
+                - generic [ref=e409]: Swatch and Audemars Piguet’s ‘high-low’ collab sparked a frenzy. Who’s the real winner?
+        - generic [ref=e414]:
+          - generic [ref=e418]:
+            - heading "US politics" [level=2] [ref=e420]
+            - list [ref=e423]:
+              - listitem [ref=e424]:
+                - link "President Donald Trump speaks to the press near the construction site of his proposed ballroom at the White House in Washington, DC, on May 19. Analysis Kent Nishimura/AFP/Getty Images" [ref=e425] [cursor=pointer]:
+                  - /url: /2026/05/19/politics/ballroom-compensation-fund-trump-2026
+                  - generic [ref=e427]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "President Donald Trump speaks to the press near the construction site of his proposed ballroom at the White House in Washington, DC, on May 19."
+                      - generic:
+                        - generic:
+                          - generic: Analysis
+                      - generic:
+                        - generic: Kent Nishimura/AFP/Getty Images
+                - 'link "Ballroom fixation, compensation fund: Trump shows he’s not done giving his party fits" [ref=e428] [cursor=pointer]':
+                  - /url: /2026/05/19/politics/ballroom-compensation-fund-trump-2026
+                  - generic [ref=e430]: ": Ballroom fixation, compensation fund: Trump shows he’s not done giving his party fits"
+              - listitem [ref=e431]:
+                - link "US Southern Command announced a lethal strike on an alleged drug boat operating in the Eastern Pacific." [ref=e432] [cursor=pointer]:
+                  - /url: /2026/05/19/politics/pentagon-watchdog-strikes-drug-boats
+                  - generic [ref=e434]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "US Southern Command announced a lethal strike on an alleged drug boat operating in the Eastern Pacific."
+                - link "Pentagon watchdog evaluating US operations involving strikes on alleged drug boats" [ref=e435] [cursor=pointer]:
+                  - /url: /2026/05/19/politics/pentagon-watchdog-strikes-drug-boats
+                  - generic [ref=e437]: Pentagon watchdog evaluating US operations involving strikes on alleged drug boats
+              - listitem [ref=e438]:
+                - link "Georgia Supreme Court candidates Miracle Rankin, left, and Jen Jordan speak at a news conference at Fulton County Government Center in Atlanta in April." [ref=e439] [cursor=pointer]:
+                  - /url: /2026/05/19/politics/georgia-supreme-court-election-barack-obama-brian-kemp
+                  - generic [ref=e441]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Georgia Supreme Court candidates Miracle Rankin, left, and Jen Jordan speak at a news conference at Fulton County Government Center in Atlanta in April."
+                - link "With Obama’s backing, Democrats aim to flip two seats on the Georgia Supreme Court" [ref=e442] [cursor=pointer]:
+                  - /url: /2026/05/19/politics/georgia-supreme-court-election-barack-obama-brian-kemp
+                  - generic [ref=e444]: With Obama’s backing, Democrats aim to flip two seats on the Georgia Supreme Court
+          - generic [ref=e448]:
+            - heading "US immigration" [level=2] [ref=e450]
+            - list [ref=e453]:
+              - listitem [ref=e454]:
+                - link "Freight trucks travel northbound on Interstate 5 Highway, Wednesday, Sept. 3, 2025, in Tracy, California. Godofredo A. Vásquez/AP" [ref=e455] [cursor=pointer]:
+                  - /url: /2026/05/19/business/truck-drivers-immigration-cdl-trump
+                  - generic [ref=e457]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Freight trucks travel northbound on Interstate 5 Highway, Wednesday, Sept. 3, 2025, in Tracy, California."
+                      - generic:
+                        - generic: Godofredo A. Vásquez/AP
+                - link "He was a truck driver for 20 years. With new Trump rules, he’s off the road" [ref=e458] [cursor=pointer]:
+                  - /url: /2026/05/19/business/truck-drivers-immigration-cdl-trump
+                  - generic [ref=e460]: He was a truck driver for 20 years. With new Trump rules, he’s off the road
+              - listitem [ref=e461]:
+                - link "In this file photo, newly arrived South Africans listen to US Deputy Secretary of State Christopher Landau and Homeland Security Deputy Secretary Troy Edgar as they deliver welcome statements in a hangar at Atlantic Aviation Dulles near Washington Dulles International Airport on May 12, 2025 in Dulles, Virginia. Dozens of White South Africans, also called Afrikaners, accepted an invitation from the Trump Administration to come to the United States as refugees." [ref=e462] [cursor=pointer]:
+                  - /url: /2026/05/18/politics/trump-additional-white-south-african-refugees
+                  - generic [ref=e464]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "In this file photo, newly arrived South Africans listen to US Deputy Secretary of State Christopher Landau and Homeland Security Deputy Secretary Troy Edgar as they deliver welcome statements in a hangar at Atlantic Aviation Dulles near Washington Dulles International Airport on May 12, 2025 in Dulles, Virginia. Dozens of White South Africans, also called Afrikaners, accepted an invitation from the Trump Administration to come to the United States as refugees."
+                - link "Trump administration proposes admitting more White South African refugees" [ref=e465] [cursor=pointer]:
+                  - /url: /2026/05/18/politics/trump-additional-white-south-african-refugees
+                  - generic [ref=e467]: Trump administration proposes admitting more White South African refugees
+              - listitem [ref=e468]:
+                - link "Federal agents fire munitions and pepper balls as community members gather to protest a week after an Immigration and Customs Enforcement agent fatally shot Renee Nicole Good in Minneapolis in January." [ref=e469] [cursor=pointer]:
+                  - /url: /2026/05/18/us/ice-agent-charged-minneapolis-shooting
+                  - generic [ref=e471]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Federal agents fire munitions and pepper balls as community members gather to protest a week after an Immigration and Customs Enforcement agent fatally shot Renee Nicole Good in Minneapolis in January."
+                - link "ICE officer charged with assault in shooting during Minneapolis immigration crackdown" [ref=e472] [cursor=pointer]:
+                  - /url: /2026/05/18/us/ice-agent-charged-minneapolis-shooting
+                  - generic [ref=e474]: ICE officer charged with assault in shooting during Minneapolis immigration crackdown
+        - generic [ref=e481]:
+          - generic [ref=e485]:
+            - heading "Crime & Courts" [level=2] [ref=e487]
+            - list [ref=e490]:
+              - listitem [ref=e491]:
+                - link "Ebony Parker has pleaded not guilty to 8 counts of felony child abuse. Peter Casey/Pool/The Virginian-Pilot/AP" [ref=e492] [cursor=pointer]:
+                  - /url: /2026/05/19/us/ebony-parker-trial
+                  - generic [ref=e494]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Ebony Parker has pleaded not guilty to 8 counts of felony child abuse."
+                      - generic:
+                        - generic: Peter Casey/Pool/The Virginian-Pilot/AP
+                - link "School official ignored warnings of gun before 6-year-old shot teacher, prosecutor says at trial" [ref=e495] [cursor=pointer]:
+                  - /url: /2026/05/19/us/ebony-parker-trial
+                  - generic [ref=e497]: School official ignored warnings of gun before 6-year-old shot teacher, prosecutor says at trial
+              - listitem [ref=e498]:
+                - link "FILE - Plumes of smoke rise from the area of a UPS cargo plane crash at Louisville Muhammad Ali International Airport, Nov. 4, 2025, in Louisville, Kentucky." [ref=e499] [cursor=pointer]:
+                  - /url: /2026/05/19/us/ntsb-ups-investigation
+                  - generic [ref=e501]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "FILE - Plumes of smoke rise from the area of a UPS cargo plane crash at Louisville Muhammad Ali International Airport, Nov. 4, 2025, in Louisville, Kentucky."
+                - link "NTSB probes why a UPS jet lost an engine and crashed on takeoff" [ref=e502] [cursor=pointer]:
+                  - /url: /2026/05/19/us/ntsb-ups-investigation
+                  - generic [ref=e504]: NTSB probes why a UPS jet lost an engine and crashed on takeoff
+          - generic [ref=e508]:
+            - heading "Business & Tech" [level=2] [ref=e510]
+            - list [ref=e513]:
+              - listitem [ref=e514]:
+                - link "Sen. Ted Cruz (R-TX) unveils the Take It Down Act to protect victims against non-consensual intimate image abuse. Online platforms are now required by law to remove such images within 48 hours of users reporting them. Andrew Harnik/Getty Images" [ref=e515] [cursor=pointer]:
+                  - /url: /2026/05/19/tech/remove-revenge-porn-legal-deadline
+                  - generic [ref=e517]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Sen. Ted Cruz (R-TX) unveils the Take It Down Act to protect victims against non-consensual intimate image abuse. Online platforms are now required by law to remove such images within 48 hours of users reporting them."
+                      - generic:
+                        - generic: Andrew Harnik/Getty Images
+                - link "You can now legally request revenge and deepfake porn to be taken down. Here’s how" [ref=e518] [cursor=pointer]:
+                  - /url: /2026/05/19/tech/remove-revenge-porn-legal-deadline
+                  - generic [ref=e520]: You can now legally request revenge and deepfake porn to be taken down. Here’s how
+              - listitem [ref=e521]:
+                - link "A man walks out of a Starbucks coffee shop in Seoul, South Korea, on March 7, 2016." [ref=e522] [cursor=pointer]:
+                  - /url: /2026/05/19/business/starbucks-korea-ceo-fired-tank-tumbles-intl-hnk
+                  - generic [ref=e524]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A man walks out of a Starbucks coffee shop in Seoul, South Korea, on March 7, 2016."
+                - link "Starbucks Korea CEO fired after ‘Tank Day’ promo evokes brutal crackdown on democracy" [ref=e525] [cursor=pointer]:
+                  - /url: /2026/05/19/business/starbucks-korea-ceo-fired-tank-tumbles-intl-hnk
+                  - generic [ref=e527]: Starbucks Korea CEO fired after ‘Tank Day’ promo evokes brutal crackdown on democracy
+          - generic [ref=e531]:
+            - heading "sports" [level=2] [ref=e533]
+            - list [ref=e536]:
+              - listitem [ref=e537]:
+                - link "Carlos Alcaraz of Spain returns against Italy's Jannik Sinner in the men's singles final at the Wimbledon Tennis Championships in London, Sunday, July 13, 2025. (AP Photo/Kin Cheung) Kin Cheung/AP" [ref=e538] [cursor=pointer]:
+                  - /url: /2026/05/19/sport/carlos-alcaraz-out-of-wimbledon
+                  - generic [ref=e540]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Carlos Alcaraz of Spain returns against Italy's Jannik Sinner in the men's singles final at the Wimbledon Tennis Championships in London, Sunday, July 13, 2025. (AP Photo/Kin Cheung)"
+                      - generic:
+                        - generic: Kin Cheung/AP
+                - link "Carlos Alcaraz pulls out of Wimbledon because of wrist injury" [ref=e541] [cursor=pointer]:
+                  - /url: /2026/05/19/sport/carlos-alcaraz-out-of-wimbledon
+                  - generic [ref=e543]: Carlos Alcaraz pulls out of Wimbledon because of wrist injury
+              - listitem [ref=e544]:
+                - link "Los Angeles Dodgers pitcher Shohei Ohtani throws to the plate during the first inning of a baseball game against the San Francisco Giants, Wednesday, May 13, 2026, in Los Angeles. (AP Photo/Mark J. Terrill)" [ref=e545] [cursor=pointer]:
+                  - /url: /2026/05/19/sport/shohei-ohtani-analysis
+                  - generic [ref=e547]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Los Angeles Dodgers pitcher Shohei Ohtani throws to the plate during the first inning of a baseball game against the San Francisco Giants, Wednesday, May 13, 2026, in Los Angeles. (AP Photo/Mark J. Terrill)"
+                - 'link "Analysis : Shohei Ohtani is having a down year at the plate. It shows just how special he is" [ref=e548] [cursor=pointer]':
+                  - /url: /2026/05/19/sport/shohei-ohtani-analysis
+                  - generic [ref=e550]:
+                    - generic [ref=e551]: "Analysis :"
+                    - text: Shohei Ohtani is having a down year at the plate. It shows just how special he is
+        - generic [ref=e556]:
+          - generic [ref=e560]:
+            - heading "Celebrities & Entertainment" [level=2] [ref=e562]
+            - list [ref=e565]:
+              - listitem [ref=e566]:
+                - link "Jet Li attends the 2026 Gold Gala at The Music Center on May 9, 2026 in Los Angeles, California. Matt Winkelmeyer/FilmMagic/Getty Images" [ref=e567] [cursor=pointer]:
+                  - /url: /2026/05/18/style/jet-li-martial-arts-star-memoir-hnk-intl
+                  - generic [ref=e569]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Jet Li attends the 2026 Gold Gala at The Music Center on May 9, 2026 in Los Angeles, California."
+                      - generic:
+                        - generic: Matt Winkelmeyer/FilmMagic/Getty Images
+                - 'link "‘So be it’: Martial arts legend Jet Li on the path to inner peace" [ref=e570] [cursor=pointer]':
+                  - /url: /2026/05/18/style/jet-li-martial-arts-star-memoir-hnk-intl
+                  - generic [ref=e572]: "‘So be it’: Martial arts legend Jet Li on the path to inner peace"
+          - generic [ref=e576]:
+            - heading "Cuba" [level=2] [ref=e578]
+            - list [ref=e581]:
+              - listitem [ref=e582]:
+                - link "People illuminate themselves with their phones while playing dominoes as a fire set up by residents protesting against prolonged power outages burns on a street in Havana, Cuba, Thursday, May 14, 2026. (AP Photo/Ramon Espinosa) 3:20 Ramon Espinosa/AP" [ref=e583] [cursor=pointer]:
+                  - /url: /2026/05/18/world/video/how-cuba-got-here-crisis-oppmann-digvid
+                  - generic [ref=e585]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "People illuminate themselves with their phones while playing dominoes as a fire set up by residents protesting against prolonged power outages burns on a street in Havana, Cuba, Thursday, May 14, 2026. (AP Photo/Ramon Espinosa)"
+                      - generic:
+                        - generic:
+                          - generic: 3:20
+                      - generic:
+                        - generic: Ramon Espinosa/AP
+                - link "How Cuba reached its breaking point" [ref=e586] [cursor=pointer]:
+                  - /url: /2026/05/18/world/video/how-cuba-got-here-crisis-oppmann-digvid
+                  - generic [ref=e588]: How Cuba reached its breaking point
+          - generic [ref=e592]:
+            - heading "Hantavirus" [level=2] [ref=e594]
+            - list [ref=e597]:
+              - listitem [ref=e598]:
+                - link "This aerial view shows the Dutch Hantavirus-hit cruise ship MV Hondius docked after arriving at the port of Rotterdam on May 18, 2026. A cruise ship that sparked global alarm after a deadly outbreak of hantavirus docked in Rotterdam harbour on May 18, with the skeleton crew facing weeks of quarantine. Peter Lipton/AFP/ANP/Getty Images" [ref=e599] [cursor=pointer]:
+                  - /url: /2026/05/19/health/countries-managing-hantavirus-travelers-different-ways
+                  - generic [ref=e601]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "This aerial view shows the Dutch Hantavirus-hit cruise ship MV Hondius docked after arriving at the port of Rotterdam on May 18, 2026. A cruise ship that sparked global alarm after a deadly outbreak of hantavirus docked in Rotterdam harbour on May 18, with the skeleton crew facing weeks of quarantine."
+                      - generic:
+                        - generic: Peter Lipton/AFP/ANP/Getty Images
+                - link "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way" [ref=e602] [cursor=pointer]:
+                  - /url: /2026/05/19/health/countries-managing-hantavirus-travelers-different-ways
+                  - generic [ref=e604]: A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way
+        - generic [ref=e606]:
+          - heading "CNN Shorts" [level=2] [ref=e607]
+          - list [ref=e613]:
+            - listitem [ref=e614]:
+              - link "119714_Blanche_Van Hollen_vrtc THUMB clean0.jpg 1:26" [ref=e615] [cursor=pointer]:
+                - /url: /2026/05/19/politics/video/van-hollen-hearing-ag-blanche-digvid-vrtc
+                - generic [ref=e617]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119714_Blanche_Van Hollen_vrtc THUMB clean0.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:26
+              - link "Van Hollen tears into Blanche over ‘anti-weaponization’ fund" [ref=e618] [cursor=pointer]:
+                - /url: /2026/05/19/politics/video/van-hollen-hearing-ag-blanche-digvid-vrtc
+                - generic:
+                  - generic: Van Hollen tears into Blanche over ‘anti-weaponization’ fund
+            - listitem [ref=e619]:
+              - link "UPS CrashNewVid clean thumb.jpg 0:29" [ref=e620] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/new-video-engine-separating-deadly-ups-plane-crash-digvid-vrtc
+                - generic [ref=e622]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "UPS CrashNewVid clean thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:29
+              - link "Watch engine separate in deadly UPS plane crash" [ref=e623] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/new-video-engine-separating-deadly-ups-plane-crash-digvid-vrtc
+                - generic:
+                  - generic: Watch engine separate in deadly UPS plane crash
+            - listitem [ref=e624]:
+              - link "Michigan Welding Woman VRTC Clean Thumb.jpg 0:55" [ref=e625] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/meet-the-american-woman-making-welding-history-vrtc
+                - generic [ref=e627]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Michigan Welding Woman VRTC Clean Thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:55
+              - link "Meet the American woman making welding history" [ref=e628] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/meet-the-american-woman-making-welding-history-vrtc
+                - generic:
+                  - generic: Meet the American woman making welding history
+            - listitem [ref=e629]:
+              - link "119676_ArtificialEggs vrtc THUMB clean0.jpg 1:08" [ref=e630] [cursor=pointer]:
+                - /url: /2026/05/19/science/video/chicks-artificial-eggs-biotech-company-digvid-vrtc
+                - generic [ref=e632]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119676_ArtificialEggs vrtc THUMB clean0.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:08
+              - link "Biotech company hatches chicks from artificial eggs" [ref=e633] [cursor=pointer]:
+                - /url: /2026/05/19/science/video/chicks-artificial-eggs-biotech-company-digvid-vrtc
+                - generic:
+                  - generic: Biotech company hatches chicks from artificial eggs
+            - listitem [ref=e634]:
+              - link "119701_ModiIngoresQuestion vrtc.jpg 1:12" [ref=e635] [cursor=pointer]:
+                - /url: /2026/05/19/world/video/indian-prime-minister-narendra-modi-not-taking-question-rhea-mogul-hnk-vrtc-digvid
+                - generic [ref=e637]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119701_ModiIngoresQuestion vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:12
+              - link "How free is the press in the world’s largest democracy?" [ref=e638] [cursor=pointer]:
+                - /url: /2026/05/19/world/video/indian-prime-minister-narendra-modi-not-taking-question-rhea-mogul-hnk-vrtc-digvid
+                - generic:
+                  - generic: How free is the press in the world’s largest democracy?
+            - listitem [ref=e639]:
+              - link "maldives cave 2014 vrtc.jpg 1:18" [ref=e640] [cursor=pointer]:
+                - /url: /2026/05/19/world/video/maldives-cave-divers-vrtc
+                - generic [ref=e642]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "maldives cave 2014 vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:18
+              - link "Inside the cave where 5 divers died in the Maldives" [ref=e643] [cursor=pointer]:
+                - /url: /2026/05/19/world/video/maldives-cave-divers-vrtc
+                - generic:
+                  - generic: Inside the cave where 5 divers died in the Maldives
+            - listitem [ref=e644]:
+              - link "119713_TrumpIranStrikes Thumbnail.png 0:43" [ref=e645] [cursor=pointer]:
+                - /url: /2026/05/19/politics/video/trump-strikes-on-iran-digvid-vrtc
+                - generic [ref=e647]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119713_TrumpIranStrikes Thumbnail.png"
+                    - generic:
+                      - generic:
+                        - generic: 0:43
+              - link "Trump says strikes on Iran were imminent" [ref=e648] [cursor=pointer]:
+                - /url: /2026/05/19/politics/video/trump-strikes-on-iran-digvid-vrtc
+                - generic:
+                  - generic: Trump says strikes on Iran were imminent
+            - listitem [ref=e649]:
+              - link "119714_Blanche_Merkley_Epstein_vrtc THUMB clean0.jpg 0:57" [ref=e650] [cursor=pointer]:
+                - /url: /2026/05/19/politics/video/jeff-merkley-epstein-investigation-ag-blanche-digvid-vrtc
+                - generic [ref=e652]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119714_Blanche_Merkley_Epstein_vrtc THUMB clean0.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:57
+              - 'link "Blanche, pressed on Epstein, says: ‘He’s dead’" [ref=e653] [cursor=pointer]':
+                - /url: /2026/05/19/politics/video/jeff-merkley-epstein-investigation-ag-blanche-digvid-vrtc
+                - generic:
+                  - generic: "Blanche, pressed on Epstein, says: ‘He’s dead’"
+            - listitem [ref=e654]:
+              - link "119711_WembanyamaRecord_thumbnail CLEAN.jpg 1:17" [ref=e655] [cursor=pointer]:
+                - /url: /2026/05/19/sport/video/victor-wembanyama-nba-playoffs-victory-digvid-vrtc
+                - generic [ref=e657]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119711_WembanyamaRecord_thumbnail CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:17
+              - link "Victor Wembanyama explodes in double-overtime playoff victory" [ref=e658] [cursor=pointer]:
+                - /url: /2026/05/19/sport/video/victor-wembanyama-nba-playoffs-victory-digvid-vrtc
+                - generic:
+                  - generic: Victor Wembanyama explodes in double-overtime playoff victory
+            - listitem [ref=e659]:
+              - link "117453_EmbryoAdoption vrtc THUMB CLEAN.jpg 2:07" [ref=e660] [cursor=pointer]:
+                - /url: /2026/05/19/health/video/frozen-embryo-adopt-donation-digvid-vrtc
+                - generic [ref=e662]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "117453_EmbryoAdoption vrtc THUMB CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 2:07
+              - link "After IVF, what happens to unused embryos?" [ref=e663] [cursor=pointer]:
+                - /url: /2026/05/19/health/video/frozen-embryo-adopt-donation-digvid-vrtc
+                - generic:
+                  - generic: After IVF, what happens to unused embryos?
+            - listitem [ref=e664]:
+              - link "jackson.jpg 0:52" [ref=e665] [cursor=pointer]:
+                - /url: /2026/05/19/politics/video/justice-jackson-scotus-handling-louisiana-redistricting-digvid-vrtc
+                - generic [ref=e667]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "jackson.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:52
+              - link "Justice Jackson slams Supreme Court’s handling of Louisiana redistricting case" [ref=e668] [cursor=pointer]:
+                - /url: /2026/05/19/politics/video/justice-jackson-scotus-handling-louisiana-redistricting-digvid-vrtc
+                - generic:
+                  - generic: Justice Jackson slams Supreme Court’s handling of Louisiana redistricting case
+            - listitem [ref=e669]:
+              - link "119708_EiffelTowerStairs Clean VRTC Thumb.jpg 0:55" [ref=e670] [cursor=pointer]:
+                - /url: /2026/05/19/world/video/eiffel-tower-stairs-to-go-on-auction-digvid-vrtc
+                - generic [ref=e672]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119708_EiffelTowerStairs Clean VRTC Thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:55
+              - link "Eiffel Tower stairs to go on auction" [ref=e673] [cursor=pointer]:
+                - /url: /2026/05/19/world/video/eiffel-tower-stairs-to-go-on-auction-digvid-vrtc
+                - generic:
+                  - generic: Eiffel Tower stairs to go on auction
+            - listitem [ref=e674]:
+              - link "119697_SanDiegoShootingSuspect vrtc thumb cln.png 1:22" [ref=e675] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/suspected-san-diego-mosque-shooter-cain-clark-vrtc
+                - generic [ref=e677]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119697_SanDiegoShootingSuspect vrtc thumb cln.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:22
+              - link "What we know about one of the suspected San Diego mosque shooters" [ref=e678] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/suspected-san-diego-mosque-shooter-cain-clark-vrtc
+                - generic:
+                  - generic: What we know about one of the suspected San Diego mosque shooters
+            - listitem [ref=e679]:
+              - link "shooting witness 1.jpg 1:00" [ref=e680] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/9-year-old-recounts-shooting-ldn-digvid-vrtc
+                - generic [ref=e682]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "shooting witness 1.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:00
+              - link "9-year-old recounts San Diego shooting" [ref=e683] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/9-year-old-recounts-shooting-ldn-digvid-vrtc
+                - generic:
+                  - generic: 9-year-old recounts San Diego shooting
+            - listitem [ref=e684]:
+              - link "RenameThisVertical.00_00_28_11.Still001.jpg 1:46" [ref=e685] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/san-diego-mosque-shooting-security-guard-sacrifice-hnk-vrtc-digvid
+                - generic [ref=e687]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "RenameThisVertical.00_00_28_11.Still001.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:46
+              - link "Security guard ‘sacrificed his life’ in San Diego mosque shooting" [ref=e688] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/san-diego-mosque-shooting-security-guard-sacrifice-hnk-vrtc-digvid
+                - generic:
+                  - generic: Security guard ‘sacrificed his life’ in San Diego mosque shooting
+            - listitem [ref=e689]:
+              - link "119694_MarkFuhrmanDeadClean1.jpg 0:47" [ref=e690] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/mark-fuhrman-dead-oj-simpson-trial-vrtc
+                - generic [ref=e692]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119694_MarkFuhrmanDeadClean1.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:47
+              - link "Mark Fuhrman, detective involved in O.J. Simpson murder trial, dies" [ref=e693] [cursor=pointer]:
+                - /url: /2026/05/19/us/video/mark-fuhrman-dead-oj-simpson-trial-vrtc
+                - generic:
+                  - generic: Mark Fuhrman, detective involved in O.J. Simpson murder trial, dies
+            - listitem [ref=e694]:
+              - link "119674_MinajBanksBadenoch_VT-thumb-CLEAN.jpg 1:15" [ref=e695] [cursor=pointer]:
+                - /url: /2026/05/19/politics/video/why-are-us-rappers-getting-involved-in-uk-politics-digvid-vrtc
+                - generic [ref=e697]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119674_MinajBanksBadenoch_VT-thumb-CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:15
+              - link "Why are US rappers getting involved in UK politics?" [ref=e698] [cursor=pointer]:
+                - /url: /2026/05/19/politics/video/why-are-us-rappers-getting-involved-in-uk-politics-digvid-vrtc
+                - generic:
+                  - generic: Why are US rappers getting involved in UK politics?
+            - listitem [ref=e699]:
+              - link "119696_NERichardsonTornado vrtc.jpg 0:25" [ref=e700] [cursor=pointer]:
+                - /url: /2026/05/19/weather/video/tornado-nebraska-richardson-county-central-storms-hnk-vrtc-digvid
+                - generic [ref=e702]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119696_NERichardsonTornado vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:25
+              - link "Video captures stovepipe tornado in southeastern Nebraska" [ref=e703] [cursor=pointer]:
+                - /url: /2026/05/19/weather/video/tornado-nebraska-richardson-county-central-storms-hnk-vrtc-digvid
+                - generic:
+                  - generic: Video captures stovepipe tornado in southeastern Nebraska
+            - listitem [ref=e704]:
+              - link "Gaza amputees sail boat to Cannes Film Festival 1:36" [ref=e705] [cursor=pointer]:
+                - /url: /2026/05/18/world/video/gaza-sunbirds-cannes-digvid-vrtc
+                - generic [ref=e707]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Gaza amputees sail boat to Cannes Film Festival"
+                    - generic:
+                      - generic:
+                        - generic: 1:36
+              - link "Gaza amputees sail boat to Cannes Film Festival" [ref=e708] [cursor=pointer]:
+                - /url: /2026/05/18/world/video/gaza-sunbirds-cannes-digvid-vrtc
+                - generic:
+                  - generic: Gaza amputees sail boat to Cannes Film Festival
+            - listitem [ref=e709]:
+              - link "shooting.jpg 1:18" [ref=e710] [cursor=pointer]:
+                - /url: /2026/05/18/us/video/san-diego-islamic-center-shooting-digvid-vrtc
+                - generic [ref=e712]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "shooting.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:18
+              - link "Three killed and two teen suspects dead in shooting at San Diego mosque" [ref=e713] [cursor=pointer]:
+                - /url: /2026/05/18/us/video/san-diego-islamic-center-shooting-digvid-vrtc
+                - generic:
+                  - generic: Three killed and two teen suspects dead in shooting at San Diego mosque
+            - listitem [ref=e714]:
+              - link "reid fund thumb.jpg 1:51" [ref=e715] [cursor=pointer]:
+                - /url: /2026/05/18/politics/video/fund-for-trumps-allies-may-put-taxpayers-on-the-hook-digvid-vrtc
+                - generic [ref=e717]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "reid fund thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:51
+              - link "$1.8 billion fund for Trump’s allies may put taxpayers on the hook" [ref=e718] [cursor=pointer]:
+                - /url: /2026/05/18/politics/video/fund-for-trumps-allies-may-put-taxpayers-on-the-hook-digvid-vrtc
+                - generic:
+                  - generic: $1.8 billion fund for Trump’s allies may put taxpayers on the hook
+            - listitem [ref=e719]:
+              - link "119693_ICEShootingMinneapolis_Vertical_1.00_00_39_00.Still001.jpg 1:41" [ref=e720] [cursor=pointer]:
+                - /url: /2026/05/18/us/video/ice-officer-charged-assault-minneapolis-vrtc
+                - generic [ref=e722]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119693_ICEShootingMinneapolis_Vertical_1.00_00_39_00.Still001.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:41
+              - link "ICE officer charged with assault in Minneapolis shooting" [ref=e723] [cursor=pointer]:
+                - /url: /2026/05/18/us/video/ice-officer-charged-assault-minneapolis-vrtc
+                - generic:
+                  - generic: ICE officer charged with assault in Minneapolis shooting
+            - listitem [ref=e724]:
+              - link "119689_HadasElonTrial Thumbnail.png 1:46" [ref=e725] [cursor=pointer]:
+                - /url: /2026/05/18/business/video/elon-musk-sam-altman-open-ai-digvid-vrtc
+                - generic [ref=e727]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119689_HadasElonTrial Thumbnail.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:46
+              - link "Elon Musk loses case against OpenAI" [ref=e728] [cursor=pointer]:
+                - /url: /2026/05/18/business/video/elon-musk-sam-altman-open-ai-digvid-vrtc
+                - generic:
+                  - generic: Elon Musk loses case against OpenAI
+            - listitem [ref=e729]:
+              - link "119688_HegsethCampaignRallyKentucky thumb clean 1.jpg 1:26" [ref=e730] [cursor=pointer]:
+                - /url: /2026/05/18/politics/video/hegseth-implores-kentucky-voters-to-oust-massie-digvid-vrtc
+                - generic [ref=e732]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119688_HegsethCampaignRallyKentucky thumb clean 1.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:26
+              - link "Hegseth implores Kentucky voters to oust Massie in rare campaign visit" [ref=e733] [cursor=pointer]:
+                - /url: /2026/05/18/politics/video/hegseth-implores-kentucky-voters-to-oust-massie-digvid-vrtc
+                - generic:
+                  - generic: Hegseth implores Kentucky voters to oust Massie in rare campaign visit
+            - listitem [ref=e734]:
+              - link "119685_VolvoCEO.THUMB.jpg 2:08" [ref=e735] [cursor=pointer]:
+                - /url: /2026/05/18/business/video/volvo-ceo-electric-cars-ev-future-digvid-vrtc
+                - generic [ref=e737]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119685_VolvoCEO.THUMB.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 2:08
+              - link "Why Volvo CEO says it’s the perfect time to buy an electric car" [ref=e738] [cursor=pointer]:
+                - /url: /2026/05/18/business/video/volvo-ceo-electric-cars-ev-future-digvid-vrtc
+                - generic:
+                  - generic: Why Volvo CEO says it’s the perfect time to buy an electric car
+        - generic [ref=e746]:
+          - link "African Voices" [ref=e748] [cursor=pointer]:
+            - /url: https://edition.cnn.com/world/africa/african-voices
+            - heading "African Voices" [level=2] [ref=e749]:
+              - text: African Voices
+              - img [ref=e750]
+          - list [ref=e754]:
+            - listitem [ref=e755]:
+              - link "Team captain Ryan Mendes is an attacking winger who helped Cape Verde qualify for their first-ever FIFA World Cup. The island nation, off the coast of West Africa, also reached the 2013 and 2023 AFCON quarterfinals." [ref=e756] [cursor=pointer]:
+                - /url: /sport/cape-verde-world-cup-debutants-nothing-is-impossible-spc
+                - generic [ref=e758]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Team captain Ryan Mendes is an attacking winger who helped Cape Verde qualify for their first-ever FIFA World Cup. The island nation, off the coast of West Africa, also reached the 2013 and 2023 AFCON quarterfinals."
+              - link "The World Cup debutants determined to prove ‘nothing is impossible’" [ref=e759] [cursor=pointer]:
+                - /url: /sport/cape-verde-world-cup-debutants-nothing-is-impossible-spc
+                - generic [ref=e761]: The World Cup debutants determined to prove ‘nothing is impossible’
+            - listitem [ref=e762]:
+              - link "Yusuf Mume Saleh began feeding hyenas in the 1950s to stop them from preying on his goats." [ref=e763] [cursor=pointer]:
+                - /url: /world/africa/bone-crushing-hyenas-cleaning-ethiopian-streets-spc
+                - generic [ref=e765]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Yusuf Mume Saleh began feeding hyenas in the 1950s to stop them from preying on his goats."
+              - link "Bone-crushing hyenas are cleaning up city streets in Ethiopia" [ref=e766] [cursor=pointer]:
+                - /url: /world/africa/bone-crushing-hyenas-cleaning-ethiopian-streets-spc
+                - generic [ref=e768]: Bone-crushing hyenas are cleaning up city streets in Ethiopia
+            - listitem [ref=e769]:
+              - link "mydrive.jpg 4:37" [ref=e770] [cursor=pointer]:
+                - /url: /2026/05/11/world/video/my-drive-kahlo
+                - generic [ref=e772]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "mydrive.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 4:37
+              - link "How Nigerian singer Kah-Lo created her own path" [ref=e773] [cursor=pointer]:
+                - /url: /2026/05/11/world/video/my-drive-kahlo
+                - generic [ref=e775]: How Nigerian singer Kah-Lo created her own path
+        - generic [ref=e782]:
+          - heading "More from CNN" [level=2] [ref=e783]
+          - generic [ref=e784]:
+            - generic [ref=e792]:
+              - link "President Donald Trump leaves after speaking at The Villages Charter School on May 1, in The Villages, Florida. Roberto Schmidt/Getty Images" [ref=e793] [cursor=pointer]:
+                - /url: /2026/05/18/politics/white-working-class-voters-trump-polling
+                - generic [ref=e795]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "President Donald Trump leaves after speaking at The Villages Charter School on May 1, in The Villages, Florida."
+                    - generic:
+                      - generic: Roberto Schmidt/Getty Images
+              - link "Analysis Trump is losing his grip on his most important demographic" [ref=e796] [cursor=pointer]:
+                - /url: /2026/05/18/politics/white-working-class-voters-trump-polling
+                - generic [ref=e797]:
+                  - generic [ref=e800]: Analysis
+                  - generic [ref=e801]: ": Trump is losing his grip on his most important demographic"
+            - list [ref=e808]:
+              - listitem [ref=e809]:
+                - link "image002.png" [ref=e810] [cursor=pointer]:
+                  - /url: /2026/05/17/weather/severe-storm-forecast-tornado-threat
+                  - generic [ref=e812]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "image002.png"
+                - link "Severe storm outbreak in Central US pushes east Tuesday as threat gradually eases" [ref=e813] [cursor=pointer]:
+                  - /url: /2026/05/17/weather/severe-storm-forecast-tornado-threat
+                  - generic [ref=e815]: Severe storm outbreak in Central US pushes east Tuesday as threat gradually eases
+              - listitem [ref=e816]:
+                - link "20250808_200230336_iOS.jpg" [ref=e817] [cursor=pointer]:
+                  - /url: /travel/they-sold-their-home-in-colorado-to-live-on-a-sailboat
+                  - generic [ref=e819]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "20250808_200230336_iOS.jpg"
+                - link "They sold their home in Colorado to live on a sailboat" [ref=e820] [cursor=pointer]:
+                  - /url: /travel/they-sold-their-home-in-colorado-to-live-on-a-sailboat
+                  - generic [ref=e822]: They sold their home in Colorado to live on a sailboat
+              - listitem [ref=e823]:
+                - link "Shakira was found not to be resident in Spain for personal income tax purposes." [ref=e824] [cursor=pointer]:
+                  - /url: /2026/05/18/entertainment/spain-shakira-tax-refund-intl-scli
+                  - generic [ref=e826]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Shakira was found not to be resident in Spain for personal income tax purposes."
+                - link "Spanish court orders tax authority to repay Shakira $64 million over wrongful fines" [ref=e827] [cursor=pointer]:
+                  - /url: /2026/05/18/entertainment/spain-shakira-tax-refund-intl-scli
+                  - generic [ref=e829]: Spanish court orders tax authority to repay Shakira $64 million over wrongful fines
+              - listitem [ref=e830]:
+                - link "still_22634066_3104650.845_still.jpg" [ref=e831] [cursor=pointer]:
+                  - /url: /2026/05/18/sport/video/mo-salah-anderson-intv-ctw-051810aseg2-cnni-sport-fast
+                  - generic [ref=e833]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "still_22634066_3104650.845_still.jpg"
+                - link "Mo Salah takes aim at manager slot after Liverpool defeat 4:41" [ref=e834] [cursor=pointer]:
+                  - /url: /2026/05/18/sport/video/mo-salah-anderson-intv-ctw-051810aseg2-cnni-sport-fast
+                  - generic [ref=e836]:
+                    - text: Mo Salah takes aim at manager slot after Liverpool defeat
+                    - generic [ref=e837]: 4:41
+              - listitem [ref=e839]:
+                - link "An aerial view of property located in Blackhoof Township, Minnesota, shows the 20-acre site where Matt Connell is hoping to open a green cemetery." [ref=e840] [cursor=pointer]:
+                  - /url: /2026/05/18/us/green-burials-natural-cemetery-hnk-dst
+                  - generic [ref=e842]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "An aerial view of property located in Blackhoof Township, Minnesota, shows the 20-acre site where Matt Connell is hoping to open a green cemetery."
+                - link "A greener way to bury the dead is gaining ground — and sparking backlash" [ref=e843] [cursor=pointer]:
+                  - /url: /2026/05/18/us/green-burials-natural-cemetery-hnk-dst
+                  - generic [ref=e845]: A greener way to bury the dead is gaining ground — and sparking backlash
+              - listitem [ref=e846]:
+                - link "A house is on fire after a Ukrainian drone attack in the village of Subbotino, Naro-Fominsk District, in the Moscow region, Russia, on May 17, 2026." [ref=e847] [cursor=pointer]:
+                  - /url: /2026/05/17/europe/russia-ukraine-moscow-attack-intl-hnk
+                  - generic [ref=e849]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A house is on fire after a Ukrainian drone attack in the village of Subbotino, Naro-Fominsk District, in the Moscow region, Russia, on May 17, 2026."
+                - link "Ukraine attack ‘largest in over a year’ on Moscow, Russian state media reports" [ref=e850] [cursor=pointer]:
+                  - /url: /2026/05/17/europe/russia-ukraine-moscow-attack-intl-hnk
+                  - generic [ref=e852]: Ukraine attack ‘largest in over a year’ on Moscow, Russian state media reports
+    - contentinfo [ref=e854]:
+      - generic [ref=e855]:
+        - search [ref=e857]:
+          - textbox "Search" [ref=e858]:
+            - /placeholder: Search CNN...
+          - button "Submit" [ref=e859]
+        - separator [ref=e860]
+        - navigation "User Account Nav" [ref=e862]:
+          - link "User Account Log In Button" [ref=e864] [cursor=pointer]: Sign in
+        - separator [ref=e865]
+        - link "Live TV" [ref=e866] [cursor=pointer]:
+          - /url: https://edition.cnn.com/live-tv
+        - link "Audio" [ref=e867] [cursor=pointer]:
+          - /url: https://edition.cnn.com/audio
+          - text: Listen
+        - link "Video" [ref=e868] [cursor=pointer]:
+          - /url: https://edition.cnn.com/watch
+          - text: Watch
+        - separator [ref=e869]
+        - navigation [ref=e871]:
+          - list [ref=e872]:
+            - listitem [ref=e873]:
+              - link "World" [ref=e874] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world
+            - listitem [ref=e875]:
+              - link "US Politics" [ref=e876] [cursor=pointer]:
+                - /url: https://edition.cnn.com/politics
+            - listitem [ref=e877]:
+              - link "Business" [ref=e878] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business
+            - listitem [ref=e879]:
+              - link "Markets" [ref=e880] [cursor=pointer]:
+                - /url: https://edition.cnn.com/markets
+            - listitem [ref=e881]:
+              - link "Health" [ref=e882] [cursor=pointer]:
+                - /url: https://edition.cnn.com/health
+            - listitem [ref=e883]:
+              - link "Entertainment" [ref=e884] [cursor=pointer]:
+                - /url: https://edition.cnn.com/entertainment
+            - listitem [ref=e885]:
+              - link "Tech" [ref=e886] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business/tech
+            - listitem [ref=e887]:
+              - link "Style" [ref=e888] [cursor=pointer]:
+                - /url: https://edition.cnn.com/style
+            - listitem [ref=e889]:
+              - link "Travel" [ref=e890] [cursor=pointer]:
+                - /url: https://edition.cnn.com/travel
+            - listitem [ref=e891]:
+              - link "Sports" [ref=e892] [cursor=pointer]:
+                - /url: https://edition.cnn.com/sport
+            - listitem [ref=e893]:
+              - link "Science" [ref=e894] [cursor=pointer]:
+                - /url: https://edition.cnn.com/science
+            - listitem [ref=e895]:
+              - link "Climate" [ref=e896] [cursor=pointer]:
+                - /url: https://edition.cnn.com/climate
+            - listitem [ref=e897]:
+              - link "Weather" [ref=e898] [cursor=pointer]:
+                - /url: https://edition.cnn.com/weather
+            - listitem [ref=e899]:
+              - link "World Cup 2026" [ref=e900] [cursor=pointer]:
+                - /url: https://edition.cnn.com/sport/fifa-world-cup
+            - listitem [ref=e901]:
+              - link "Ukraine-Russia War" [ref=e902] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/europe/ukraine
+            - listitem [ref=e903]:
+              - link "Israel-Hamas War" [ref=e904] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/middleeast/israel
+            - listitem [ref=e905]:
+              - link "Features" [ref=e906] [cursor=pointer]:
+                - /url: https://edition.cnn.com/
+            - listitem [ref=e907]:
+              - link "Watch" [ref=e908] [cursor=pointer]:
+                - /url: https://edition.cnn.com/watch
+            - listitem [ref=e909]:
+              - link "Listen" [ref=e910] [cursor=pointer]:
+                - /url: https://edition.cnn.com/audio
+            - listitem [ref=e911]:
+              - link "Games" [ref=e912] [cursor=pointer]:
+                - /url: https://edition.cnn.com/games
+            - listitem [ref=e913]:
+              - link "About CNN" [ref=e914] [cursor=pointer]:
+                - /url: https://edition.cnn.com/about
+        - separator [ref=e915]
+        - generic [ref=e916]:
+          - link "CNN logo" [ref=e919] [cursor=pointer]:
+            - /url: https://edition.cnn.com
+            - img [ref=e921]
+          - generic [ref=e929]:
+            - text: Follow CNN
+            - list [ref=e930]:
+              - listitem [ref=e931]:
+                - link "Visit us on Facebook" [ref=e932] [cursor=pointer]:
+                  - /url: https://facebook.com/CNN
+                  - img [ref=e933]
+              - listitem [ref=e935]:
+                - link "Visit us on X" [ref=e936] [cursor=pointer]:
+                  - /url: https://twitter.com/CNN
+                  - img [ref=e937]
+              - listitem [ref=e939]:
+                - link "Visit us on Instagram" [ref=e940] [cursor=pointer]:
+                  - /url: https://instagram.com/CNN
+                  - img [ref=e941]
+              - listitem [ref=e943]:
+                - link "TikTok" [ref=e944] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@cnn?lang=en
+                  - img "TikTok" [ref=e945]
+              - listitem [ref=e947]:
+                - link "LinkedIn" [ref=e948] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/cnn
+                  - img "LinkedIn" [ref=e949]
+              - listitem [ref=e951]:
+                - link "Visit us on Threads" [ref=e952] [cursor=pointer]:
+                  - /url: https://www.threads.com/@cnn
+                  - img [ref=e953]
+        - generic [ref=e957]:
+          - generic [ref=e958]: Download the CNN app
+          - generic [ref=e959]:
+            - link "Download on Apple App Store" [ref=e960] [cursor=pointer]:
+              - /url: https://cnn.onelink.me/PVpf/q9j1odhf
+              - img [ref=e961]
+            - link "Get it on Google Play" [ref=e996] [cursor=pointer]:
+              - /url: https://cnn.onelink.me/PVpf/43qg6lsp
+              - img [ref=e997]
+        - separator [ref=e1012]
+        - navigation [ref=e1013]:
+          - link "Terms of Use" [ref=e1014] [cursor=pointer]:
+            - /url: https://edition.cnn.com/terms
+          - link "Privacy Policy" [ref=e1015] [cursor=pointer]:
+            - /url: https://edition.cnn.com/privacy
+          - link "Manage Cookies" [ref=e1016] [cursor=pointer]:
+            - /url: "#"
+          - link "Ad Choices" [ref=e1017] [cursor=pointer]:
+            - /url: https://edition.cnn.com/ad-choices
+          - link "Accessibility & CC" [ref=e1018] [cursor=pointer]:
+            - /url: https://edition.cnn.com/accessibility
+          - link "About" [ref=e1019] [cursor=pointer]:
+            - /url: https://edition.cnn.com/about
+          - link "Newsletters" [ref=e1020] [cursor=pointer]:
+            - /url: https://edition.cnn.com/newsletters
+          - link "Transcripts" [ref=e1021] [cursor=pointer]:
+            - /url: https://edition.cnn.com/transcripts
+        - paragraph [ref=e1022]:
+          - text: © 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+          - text: CNN Sans ™ & © 2016 Cable News Network.
