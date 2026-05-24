@@ -1,3 +1,8 @@
+## Intro
+This implementation follows the details described in the book called "Agentic Coding with Claude Code" by Eden Marco. The book is for Claude Code but you can use Gemini CLI as a free alternative, although implementation Claude Code vs Gemini CLI might differ.
+
+## Next.js project
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
