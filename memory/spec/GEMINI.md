@@ -1,7 +1,7 @@
 # HookHub Specification (MVP)
 
 ## 1. Project Overview
-HookHub is a community-driven gallery for discovering and browsing open-source **Claude Code hooks** and **MCP-based automations**. It helps developers find ready-to-use configurations to enhance their Claude CLI workflows.
+HookHub is a community-driven gallery for discovering and browsing open-source **Gemini CLI hooks** and **MCP-based automations**. It helps developers find ready-to-use configurations to enhance their Gemini CLI workflows.
 
 ## 2. Core Functionality (MVP)
 *   **Hook Discovery**: A central repository of hooks contributed by the community.

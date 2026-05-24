@@ -14,7 +14,7 @@ export default function Home() {
             </h1>
           </div>
           <p className="hidden sm:block text-sm text-zinc-500 dark:text-zinc-400">
-            Discover the best Claude Code hooks
+            Discover the best Gemini CLI hooks
           </p>
         </div>
       </header>
@@ -22,10 +22,10 @@ export default function Home() {
       <main className="flex-grow">
         <section className="pt-16 pb-8 text-center px-4">
           <h2 className="text-4xl font-extrabold text-zinc-900 dark:text-zinc-50 mb-4 tracking-tight">
-            Supercharge your Claude CLI
+            Supercharge your Gemini CLI
           </h2>
           <p className="text-lg text-zinc-600 dark:text-zinc-400 max-w-2xl mx-auto">
-            Browse our collection of community-built hooks for Claude Code. 
+            Browse our collection of community-built hooks for Gemini CLI. 
             Automate your workflow with event-driven scripts.
           </p>
         </section>
